@@ -1,0 +1,27 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+
+footer p {
+    line-height: 22px;
+    font-size: 13px;
+    color: #4c4c55;
+}
+
+
+footer span {
+    border-top: 1px solid #e3e3e4;
+}
+
+
+footer ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    font-size: 13px;
+    line-height: 22px;
+    color: #595964;
+}
